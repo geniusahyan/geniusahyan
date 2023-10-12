@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**geniusahyan/geniusahyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my github repo
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/projects-0-n)](#)
+[![](https://img.shields.io/badge/repositories-0-n)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+[![](https://img.shields.io/badge/-HTML5-yellow?logo=html5)](#)
+[![](https://img.shields.io/badge/-CSS3-n?logo=css3)](#)
+[![](https://img.shields.io/badge/-tailwind-cyan?logo=tailwindcss)](#)
+[![](https://img.shields.io/badge/-javascript-n?logo=javascript)](#)
+[![](https://img.shields.io/badge/-react-blue?logo=react)](#)
+
+
+#### My Proud Work
