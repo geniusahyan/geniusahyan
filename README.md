@@ -2,8 +2,8 @@
 
 ## Welcome to my github repo
 
-[![](https://img.shields.io/badge/projects-0-n)](#)
-[![](https://img.shields.io/badge/repositories-0-n)](#)
+[![](https://img.shields.io/badge/projects-2-n)](#)
+[![](https://img.shields.io/badge/repositories-2-n)](#)
 
 ### Languages
 [![](https://img.shields.io/badge/-HTML5-yellow?logo=html5)](#)
