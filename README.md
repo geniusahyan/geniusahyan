@@ -2,8 +2,8 @@
 
 ## Welcome to my github repo
 
-[![](https://img.shields.io/badge/projects-2-n)](#)
-[![](https://img.shields.io/badge/repositories-2-n)](#)
+[![](https://img.shields.io/badge/projects-3-n)](#)
+[![](https://img.shields.io/badge/repositories-3-n)](#)
 
 ### Languages
 [![](https://img.shields.io/badge/-HTML5-yellow?logo=html5)](#)
@@ -16,3 +16,5 @@
 #### My Proud Work
 
 [portfolio](https://geniusahyan.github.io/)
+[Music player](https://github.com/geniusahyan/music-player)
+[Todo List](https://github.com/geniusahyan/todo_list)
