@@ -15,8 +15,6 @@
 
 #### My Proud Work
 
-[portfolio](https://geniusahyan.github.io/)
-
-[Music player](https://github.com/geniusahyan/music-player)
-
+[portfolio](https://geniusahyan.github.io/)  
+[Music player](https://github.com/geniusahyan/music-player)  
 [Todo List](https://github.com/geniusahyan/todo_list)
