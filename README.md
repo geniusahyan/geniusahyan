@@ -11,6 +11,7 @@
 [![](https://img.shields.io/badge/-tailwind-cyan?logo=tailwindcss)](#)
 [![](https://img.shields.io/badge/-javascript-n?logo=javascript)](#)
 [![](https://img.shields.io/badge/-react-blue?logo=react)](#)
+[![](https://img.shields.io/badge/-python-fuchisa?logo=python)](#)
 
 
 #### My Proud Work
