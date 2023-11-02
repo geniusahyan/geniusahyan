@@ -12,6 +12,7 @@
 [![](https://img.shields.io/badge/-javascript-n?logo=javascript)](#)
 [![](https://img.shields.io/badge/-react-blue?logo=react)](#)
 [![](https://img.shields.io/badge/-python-fuchisa?logo=python)](#)
+[![](https://img.shields.io/badge/-Flask-fuchisa?logo=python)](#)
 
 
 #### My Proud Work
