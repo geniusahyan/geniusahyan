@@ -13,6 +13,8 @@
 [![](https://img.shields.io/badge/-react-blue?logo=react)](#)
 [![](https://img.shields.io/badge/-python-fuchisa?logo=python)](#)
 [![](https://img.shields.io/badge/-Flask-fuchisa?logo=python)](#)
+[![](https://img.shields.io/badge/-php-blue?logo=php)](#)
+[![](https://img.shields.io/badge/-mysql-purple?logo=mysql)](#)
 
 
 #### My Proud Work
@@ -20,3 +22,4 @@
 [portfolio](https://geniusahyan.github.io/)  
 [Music player](https://github.com/geniusahyan/music-player)  
 [Todo List](https://github.com/geniusahyan/todo_list)
+[Ecommerce](https://github.com/geniusahyan/hoodie_full_stack)
