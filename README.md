@@ -18,7 +18,7 @@
 [![](https://img.shields.io/badge/-node-blue?logo=node)](#)
 [![](https://img.shields.io/badge/-express-cyan?logo=express)](#)
 [![](https://img.shields.io/badge/-mongodb-yellow?logo=mongodb)](#)
-[![](https://img.shields.io/badge/-java-orange?logo=java)](#)
+[![](https://img.shields.io/badge/-java-orange?logo=Java)](#)
 
 
 #### My Proud Work
