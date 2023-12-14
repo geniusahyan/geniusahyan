@@ -6,6 +6,9 @@
 [![](https://img.shields.io/badge/repositories-10-n)](#)
 
 ### Languages
+
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
+
 [![](https://img.shields.io/badge/-HTML5-yellow?logo=html5)](#)
 [![](https://img.shields.io/badge/-CSS3-n?logo=css3)](#)
 [![](https://img.shields.io/badge/-tailwind-cyan?logo=tailwindcss)](#)
