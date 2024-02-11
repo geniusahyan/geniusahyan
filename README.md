@@ -51,7 +51,7 @@
     </div>
     <hr style="width: 90%; color: blue;  " >
     <div class="middle">
-        <p>
+        <p style="font-size:3rem;" >
             Full Stack Developer
         </p>
     </div>
