@@ -1,4 +1,4 @@
-<p align="center">![coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1ZXplbXZ4a2ttajczZ2R5cnJvaTN6Nm1xamE3N3o1dTVpczBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif "a title")</p>
+![coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1ZXplbXZ4a2ttajczZ2R5cnJvaTN6Nm1xamE3N3o1dTVpczBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif "a title")
 <h1 align="center">Hi 👋, I'm Aslam Ahyan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
