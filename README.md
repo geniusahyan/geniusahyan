@@ -1,3 +1,12 @@
+<img class="craze" style="text-align:center;margin: 100px;
+  width: auto;
+text-align:center;
+  padding: 10px;
+  border: 5px dotted;" alt="Coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY1ZXplbXZ4a2ttajczZ2R5cnJvaTN6Nm1xamE3N3o1dTVpczBsaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style=" display: block;
+  margin-left: auto;
+  margin-right: auto;
+  ">
+
 <h1 align="center">Hi 👋, I'm Aslam Ahyan</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
